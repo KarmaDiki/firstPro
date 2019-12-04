@@ -99,7 +99,7 @@ int main()
 
 	}
 	displayAveMinMax(PayAmount);
-
+//2nd commit
 	return 0;
 }
 
